@@ -7,11 +7,17 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_51B60050","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_659D13C9","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_5E9A4E78","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_236B07A3","path":"rooms/MainLevel/MainLevel.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_51B60050","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51B60050","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":1586.0,},
+        {"$GMRInstance":"v1","%Name":"inst_659D13C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_659D13C9","objectId":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":1696.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5E9A4E78","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5E9A4E78","objectId":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":1696.0,},
+        {"$GMRInstance":"v1","%Name":"inst_236B07A3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_236B07A3","objectId":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":1696.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"CollisionTiles","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"CollisionTiles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":40,"TileCompressedData":[
           -362,-2147483648,2,0,1,-38,-2147483648,2,12,13,-38,-2147483648,2,24,25,-38,-2147483648,5,36,37,-2147483648,
